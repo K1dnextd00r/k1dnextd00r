@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I’m a Junior Software Engineer and part-time software development student who enjoys building practical software that solves real-world problems. My journey into programming started in high school, and since then I’ve been constantly improving my skills by building projects and exploring new technologies.<br><br>Right now I’m focused on full-stack development, working with technologies like ASP.NET, React, and SQL databases, while strengthening my understanding of backend architecture, APIs, and database design.<br><br>I’m always learning and experimenting with new tools, currently expanding my knowledge around modern web development, scalable backend systems, and clean software architecture.<br><br>I enjoy collaborating with other developers and contributing to projects where software can make processes simpler and more efficient. If you’re building something interesting or need an extra developer perspective, I’m always happy to connect</p>
+<p align="left">I’m a Junior Software Engineer and part-time software development student who enjoys building practical software that solves real-world problems. My journey into programming started in high school, and since then I’ve been constantly improving my skills by building projects and exploring new technologies.<br><br>Right now I’m focused on full-stack development, working with technologies like ASP.NET, React, and SQL databases, while strengthening my understanding of backend architecture, APIs, and database design.<br><br>I’m always learning and experimenting with new tools, currently expanding my knowledge around modern web development, scalable backend systems, and clean software architecture.</p>
 
 ###
 
